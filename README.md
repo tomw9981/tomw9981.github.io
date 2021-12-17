@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio!
 
-You can use the [editor on GitHub](https://github.com/tomw9981/tomw9981.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have experience in C#, C++, SQL and Python.
 
 ### Markdown
 
